@@ -1,0 +1,23 @@
+#home{
+    height: 60vh;
+    background-color: lightpink;
+    padding-top: 64px;
+    padding-left: 50px;
+    padding-right: 30px;
+}
+
+#demo{
+    /*background-color: lightpink;*/
+    padding-top: 50px;
+    height: auto;
+}
+#Hand-writings{
+    padding-bottom: 50px;
+}
+
+
+
+#myContact{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
